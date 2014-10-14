@@ -1,6 +1,6 @@
-Matlab-Based-Object-Recognition-Library
+Python-Based-Image-Recogntion
 =======================================
 
-Matlab Based Object Recognition Library
+Python-Based-Image-Recogntion Library
 
-This is matlab based project attempt in order to build matlab based object detection library
+This is python based project attempt in order to build python based object detection library

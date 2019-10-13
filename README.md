@@ -9,4 +9,4 @@ This is python based project attempt in order to build python based object detec
 
 Credits: To some article(s) that appeared here: https://www.pyimagesearch.com/category/object-detection/
          Probably this article too: https://realpython.com/face-recognition-with-python/
-         and few others that I might have not mentioned when I binded together the script following various examples
+         and few others that I might have not mentioned when I binded together the script following various examples several years ago

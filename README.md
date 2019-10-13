@@ -7,3 +7,4 @@ This is python based project attempt in order to build python based object detec
 
 --Execute: python face_detect.py images.jpeg haarcascade_frontalface_default.xml
 
+Credits: To some article(s) that appeared here: https://www.pyimagesearch.com/category/object-detection/
